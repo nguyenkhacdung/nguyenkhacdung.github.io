@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi! I'm Tong. 
+title: Hi! I'm Kevin (NGUYEN Khac-Dung). 
 permalink: /about/
 ---
 
