@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Canh giac duoc
+name: Canhgiacduoc (http://canhgiacduoc.github.io)
 
 # Short bio or description (displayed in the header)
-description: Full Stack Nơi chia sẻ kinh nghiệm nghiên cứu khoa học, phương pháp và vận dụng thống kê trong lĩnh lực y sinh
+description: Nơi chia sẻ kinh nghiệm nghiên cứu khoa học, phương pháp và vận dụng thống kê trong lĩnh lực y-sinh-dược học
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/nguyenkhacdung/nguyenkhacdung.github.io/master/images/Canhgiacduoc_Icon.png
@@ -26,7 +26,7 @@ footer-links:
   flickr: 
   github: #canhgiacduoc
   instagram: 
-  linkedin: #pub/tong-xiang/22/319/46b
+  linkedin: in/nguyen-khac-dung-86122496/#pub/tong-xiang/22/319/46b
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: #tong_xiang
