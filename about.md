@@ -4,10 +4,19 @@ title: Hi! I'm Kevin (NGUYEN Khac-Dung).
 permalink: /about/
 ---
 
-Currently a product manager MBA intern at Luxe, an automobile services marketplace.
+Currently a PhD Resercher at University Toulouse III Paul-Sabatier in Toulouse France.
 
-Formerly the engineering lead for backend services at [Crisis Text Line.org](http://crisistextline.org/), a mental health crisis counseling service over messaging apps and SMS. 
+My thesis works concentrate about pharmacovigilance and pharmacoepidemiology within 2 countries (Vietnam and France). 
 
-Before that I was a mobile software engineer at [DoSomething.org](https://www.dosomething.org/), a civic engagement nonprofit using modern web and mobile apps to activate young people for social change. 
+I have good experiences on Pharmacovigilance, Drug Safety, Drug Information, Clinical Pharmacology, Statistics and Modeling, Pharmaco-epidemiological Methodology, Data Mining.
 
-I'm fascinated by the intersection of tech and the public good, and formerly built software for [Venture for America](http://ventureforamerica.org/) and taught curious people how to program at [Fullstack Academy](http://www.fullstackacademy.com/). Duke 2013, Harvard Business School 2019. 
+My experience as a Data Scientist :
+
+ •	Data science experiences using R (with more than 3 years’ experience) and Python including: Data analysis and research design, Data coding, Data manipulation, Data visualization, Datamining in public health domain.
+ •	Professional in using RStudio, RMarkdown, Latex, Cloud Services, Zotero, CSL coding to generate transparent and reproducible research
+ •	Additional skills: Microsoft Office (Word, Power Point and Excel), scientific blogging, GIS analysis and display, Inkscape, Adobe Photoshop &Lightroom, etc.
+
+This blog shares some of my experiences/research ideas during my thesis in the Regional pharmacovigilance Centre Midi-Pyreneans (Toulouse, France) and the National Centre of Drug Information and Adverse Drug Reaction Monitoring (Hanoi, Vietnam)
+
+
+I'am very happy to collaborate with other data scientists in the public health or pharmacology domain.
